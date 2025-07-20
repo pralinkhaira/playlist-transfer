@@ -69,7 +69,8 @@ pip install spotipy ytmusicapi
 
 ## 📸 Screenshots
 
-![GUI Screenshot Placeholder](#) *(screenshot soon)*
+<img width="876" height="722" alt="image" src="https://github.com/user-attachments/assets/5655bdcb-f2c7-4795-8de0-93fbac29e53e" />
+
 
 ## 🛠️ Contributing
 
