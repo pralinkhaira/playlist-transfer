@@ -48,7 +48,7 @@ pip install spotipy ytmusicapi
 1. Run the Python script:
 
    ```bash
-   python main.py
+   python playlist-transfer.py
    ```
 2. Choose the direction of transfer:
 
