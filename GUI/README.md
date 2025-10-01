@@ -77,5 +77,5 @@ MIT License
 
 ---
 
-> Made with ❤️ by Pralin Khaira
+> Made with ❤️ by Pralin Khaira,
 > GUI Update by Marcus <3
